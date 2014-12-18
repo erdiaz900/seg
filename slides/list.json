@@ -1,0 +1,144 @@
+[
+
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "img/covert.png",
+            "class": "home",
+            "data-state": "homepage"
+        }
+    },
+    {
+        "filename": "outline.md",
+        "attr": {}
+    },
+    [
+    	{
+        	"filename": "introduction.md",
+        	"attr": {
+        		"data-state": "big-title",
+            	"data-transition":"zoom"
+            	}
+        },
+        {
+        	"filename": "introduction_contents.md",
+        	"attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+        }
+    ],
+    [
+	    {
+	        "filename": "learning_about_kernel.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "learning_about_kernel_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+    ],
+
+
+    [
+	    {
+	        "filename": "learning_about_modules.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "learning_about_modules_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+    ],
+
+    [
+	    {
+	        "filename": "loading_modules.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "loading_modules_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+
+    ],
+
+
+    [
+      {
+          "filename": "removing_modules.md",
+          "attr": {
+              "data-state": "big-title",
+              "data-transition":"zoom"
+          }
+      },
+      {
+          "filename": "removing_modules_contents.md",
+          "attr": {
+              "data-separator": "^\n\n\n",
+              "data-vertical": "^\n\n"
+          }
+      }
+
+    ],
+
+
+
+  [
+      {
+          "filename": "maintaning_modules.md",
+          "attr": {
+              "data-state": "big-title",
+              "data-transition":"zoom"
+          }
+      },
+      {
+          "filename": "maintaning_modules_contents.md",
+          "attr": {
+              "data-separator": "^\n\n\n",
+              "data-vertical": "^\n\n"
+          }
+      }
+
+    ],
+
+   {
+        "filename": "bibliography.md",
+        "attr": {
+            "data-state":"biblio",
+            "class":"alternatelight",
+           "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+
+        }
+    },
+
+    {
+        "filename": "end.md",
+        "attr": {
+            "data-state":"thanks",
+            "class":"alternatelight",
+           "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+
+        }
+    }
+]

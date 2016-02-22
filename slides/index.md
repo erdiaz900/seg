@@ -1,9 +1,9 @@
 # Administración de Servidores
-## El núcleo
+## Seguridad del Sistema
 ### Gestión y consultar del núcleo y sus módulos  en tiempo de ejecución
 
 <small>Creado por </small>
 
-<small>[Iñaki Fernández de Viana y González](http://www.uhu.es/i.fviana) / [@ijfviana](http://twitter.com/ijfviana)</small>
+<small>[José Manuel Díaz González]</small>
 
-<small>Huelva, noviembre 2014</small>
+<small>Moguer Febrero 2016</small>

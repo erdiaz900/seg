@@ -2,19 +2,19 @@
 
 <ul>
 <li class="fragment fade-in">
-[Introducción](#/2)
+[Configuración del enrutador](#/2)
 </li>
 
 <li class="fragment fade-in">
-[Obteniendo información del núcleo](#/3)
+[Servidores FTP](#/3)
 </li>
 
 <li class="fragment fade-in">
-[Obteniendo información de los módulos](#/4)
+[SSH](#/4)
 </li>
 
 <li class="fragment fade-in">
-[Cargando módulos del núcleo](#/5)
+[Alertas de seguridad y detención de intrusos.](#/5)
 </li>
 
 <li class="fragment fade-in">
@@ -22,7 +22,7 @@
 </li>
 
 <li class="fragment fade-in">
-[Manteniendo módulos del núcleo](#/7)
+[VPN](#/7)
 </li>
 
 <aside class="notes">

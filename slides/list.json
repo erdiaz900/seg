@@ -12,16 +12,6 @@
         "filename": "outline.md",
         "attr": {}
     },
-     [
-    	{
-        	"filename": "indice.md",
-        	"attr": {
-        		"data-state": "big-title",
-            	"data-transition":"zoom"
-            	}
-        },
-       
-    ],
     [
     	{
         	"filename": "introduction.md",

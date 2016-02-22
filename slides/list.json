@@ -29,6 +29,22 @@
         }
     ],
     [
+        {
+        	"filename": "ftp.md",
+        	"attr": {
+        		"data-state": "big-title",
+            	"data-transition":"zoom"
+            	}
+        },
+        {
+        	"filename": "ftp_funcionamiento.md",
+        	"attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+        }
+    ],
+    [
 	    {
 	        "filename": "learning_about_kernel.md",
 	        "attr": {
